@@ -1,5 +1,6 @@
 # CD01 - Análise de Redes Sociais - Aula 1
 
+https://www.youtube.com/live/wtgqMTLCd4s?si=xRbTDfOKJqFc2LUQ
 
 ## Introdução
 

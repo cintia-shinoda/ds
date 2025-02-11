@@ -1,4 +1,6 @@
-# # CD01 - Análise de Redes Sociais - aula 2
+# CD01 - Análise de Redes Sociais - aula 2
+
+https://www.youtube.com/live/5WlwhI9miok?si=RSY_ojVrRKkLU2wR
 
 ## Betweenness
 - Freeman - 1979: importância de alguns elementos que possuem graus pequenos
