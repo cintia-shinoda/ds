@@ -8,3 +8,4 @@
 |  | 04 | event | [Minicursos: Programa de Verão LNCC 2025](https://github.com/cintia-shinoda/ds/tree/main/02-LNCC-Programa-Verao-2025) | LNCC |
 |  | 05.a | projects | [DataCamp Projects](https://github.com/cintia-shinoda/ds/tree/main/03-DataCamp-Courses-%26-Projects/Projects) | DataCamp |
 |  | 05.b | courses | [DataCamp Courses](https://github.com/cintia-shinoda/ds/tree/main/03-DataCamp-Courses-%26-Projects/Courses) | DataCamp |
+|  | 06 |  | Data Analyst Learning Path | Google |
